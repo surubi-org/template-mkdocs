@@ -4,5 +4,5 @@
 source ./.env/bin/activate
 
 # Inicia el servidor de MkDocs
-mkdocs serve
+mkdocs serve --livereload
 
